@@ -13,7 +13,7 @@ The code is stable while using Python 3.8.8, CUDA >=10.1
 - Clone this repository:
 
 ```
-git clone https://github.com/SWF-hao/CAA-Net_for_IK_diagnosis
+git clone https://github.com/SWF-hao/CAA-Net_Pytorch
 cd CAA-Net-Pytorch
 ```
 
